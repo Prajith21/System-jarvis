@@ -1,1 +1,1 @@
-candidate elimination algorithm
+CANDIATE ELIMINATION ALGOEITHM
